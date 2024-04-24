@@ -1,7 +1,8 @@
 # Scientific Report on Breast Cancer Diagnosis Classification
-## Introduction: <br>
+### Introduction: <br>
 Breast cancer is one of the most prevalent forms of cancer among women worldwide. Early detection and accurate classification of breast tumors are crucial for effective treatment and prognosis. In this study, we analyzed the Breast Cancer Wisconsin Diagnostic dataset to develop machine learning models for classifying tumors as benign or malignant based on their shape and geometry features.
-Dataset Description:
+<br><br>
+### Dataset Description:<br>
 The dataset contains features computed from digitized images of breast mass samples, including characteristics such as radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension. Each sample is labeled as benign (B) or malignant (M), representing the two classes of breast tumors.
 
 Here's an explanation of the columns present in the dataset:
