@@ -40,15 +40,15 @@ Here's an explanation of the columns present in the dataset:
 32.	Fractal Dimension Worst: Worst or largest mean value for fractal dimension in the tumor mass.
 Each of these features provides valuable information about the characteristics of breast tumors, aiding in the diagnosis and classification process.
 
-Methodology:
-We applied seven classification techniques to the dataset: Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Naive Bayes, Gradient Boosting, and XGBoost. For model evaluation, we used stratified k-fold cross-validation with five folds to ensure robust performance assessment.
-Results:
-Here are the evaluation scores for each model:
-•	Random Forest:
+### Methodology:<br>
+We applied seven classification techniques to the dataset: Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Naive Bayes, Gradient Boosting, and XGBoost. For model evaluation, we used stratified k-fold cross-validation with five folds to ensure robust performance assessment.<br>
+#### Results:<br>
+Here are the evaluation scores for each model:<br>
+•	Random Forest:<br>
 •	Accuracy: 96.49%
 •	Precision: 93.33%
 •	Recall: 97.67%
-•	F1-score: 95.45%
+•	F1-score: 95.45%<br><br>
 •	SVM:
 •	Accuracy: 93.86%
 •	Precision: 95.00%
