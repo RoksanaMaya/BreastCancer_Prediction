@@ -45,9 +45,12 @@ We applied seven classification techniques to the dataset: Random Forest, Suppor
 #### Results:<br>
 Here are the evaluation scores for each model:<br>
 ![Alt Text](chart.jpg) <br>
-Conclusion:
-Based on the evaluation scores, we observe that logistic regression achieved the highest accuracy among all models (97.35%). However, considering other metrics such as precision, recall, and F1-score, gradient boosting and XGBoost demonstrate competitive performance.
-Recommendations:
+
+The scores represented in a graph:<br>
+![Alt Text](graph.jpg) <br>
+### Conclusion:
+Based on the evaluation scores, we observe that logistic regression achieved the highest accuracy among all models (97.35%). However, considering other metrics such as precision, recall, and F1-score, gradient boosting and XGBoost demonstrate competitive performance. <br>
+### Recommendations:
 •	Further investigation into feature engineering: Exploring additional feature engineering techniques or selecting a subset of informative features could potentially enhance model performance.
 •	Ensemble techniques: Experimenting with ensemble methods such as stacking or blending multiple models could further improve classification accuracy.
 •	Regularization: Implementing regularization techniques to prevent overfitting and improve generalization of the models.
