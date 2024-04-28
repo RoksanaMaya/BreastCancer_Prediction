@@ -51,8 +51,12 @@ The scores represented in a graph:<br>
 ### Conclusion:
 Based on the evaluation scores, we observe that logistic regression achieved the highest accuracy among all models (97.35%). However, considering other metrics such as precision, recall, and F1-score, gradient boosting and XGBoost demonstrate competitive performance. <br>
 ### Recommendations:
-•	Further investigation into feature engineering: Exploring additional feature engineering techniques or selecting a subset of informative features could potentially enhance model performance.
-•	Ensemble techniques: Experimenting with ensemble methods such as stacking or blending multiple models could further improve classification accuracy.
-•	Regularization: Implementing regularization techniques to prevent overfitting and improve generalization of the models.
-•	Interpretability: Considering the interpretability of models, particularly for medical applications, could aid in understanding the underlying factors contributing to tumor classification decisions.
-Overall, the developed models demonstrate promising performance for breast cancer diagnosis classification, providing valuable support for healthcare professionals in early detection and treatment planning.
+### Model Improvement Suggestions:
+
+- **Further investigation into feature engineering:** Exploring additional feature engineering techniques or selecting a subset of informative features could potentially enhance model performance.
+- **Ensemble techniques:** Experimenting with ensemble methods such as stacking or blending multiple models could further improve classification accuracy.
+- **Regularization:** Implementing regularization techniques to prevent overfitting and improve generalization of the models.
+- **Interpretability:** Considering the interpretability of models, particularly for medical applications, could aid in understanding the underlying factors contributing to tumor classification decisions.
+
+**Overall,** the developed models demonstrate promising performance for breast cancer diagnosis classification, providing valuable support for healthcare professionals in early detection and treatment planning.
+
