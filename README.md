@@ -44,7 +44,7 @@ Each of these features provides valuable information about the characteristics o
 We applied seven classification techniques to the dataset: Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Naive Bayes, Gradient Boosting, and XGBoost. For model evaluation, we used stratified k-fold cross-validation with five folds to ensure robust performance assessment.<br>
 #### Results:<br>
 Here are the evaluation scores for each model:<br>
-!([https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54](https://github.com/RoksanaMaya/BreastCancer_Prediction/blob/main/chart.jpg)) 
+![Alt Text](chart.jpg) <br>
 Conclusion:
 Based on the evaluation scores, we observe that logistic regression achieved the highest accuracy among all models (97.35%). However, considering other metrics such as precision, recall, and F1-score, gradient boosting and XGBoost demonstrate competitive performance.
 Recommendations:
