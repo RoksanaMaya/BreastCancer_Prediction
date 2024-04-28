@@ -44,41 +44,7 @@ Each of these features provides valuable information about the characteristics o
 We applied seven classification techniques to the dataset: Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Naive Bayes, Gradient Boosting, and XGBoost. For model evaluation, we used stratified k-fold cross-validation with five folds to ensure robust performance assessment.<br>
 #### Results:<br>
 Here are the evaluation scores for each model:<br>
-•	Random Forest:<br>
-•	Accuracy: 96.49%
-•	Precision: 93.33%
-•	Recall: 97.67%
-•	F1-score: 95.45%<br><br>
-•	SVM:
-•	Accuracy: 93.86%
-•	Precision: 95.00%
-•	Recall: 88.37%
-•	F1-score: 91.57%
-•	KNN:
-•	Accuracy: 95.61%
-•	Precision: 91.11%
-•	Recall: 97.62%
-•	F1-score: 94.25%
-•	Logistic Regression:
-•	Accuracy: 97.35%
-•	Precision: 100.00%
-•	Recall: 92.86%
-•	F1-score: 96.30%
-•	Naive Bayes:
-•	Accuracy: 96.49%
-•	Precision: 95.35%
-•	Recall: 95.35%
-•	F1-score: 95.35%
-•	Gradient Boosting:
-•	Accuracy: 97.35%
-•	Precision: 97.56%
-•	Recall: 95.24%
-•	F1-score: 96.39%
-•	XGBoost:
-•	Accuracy: 97.37%
-•	Precision: 93.48%
-•	Recall: 100.00%
-•	F1-score: 96.63%
+!([https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54](https://github.com/RoksanaMaya/BreastCancer_Prediction/blob/main/chart.jpg)) 
 Conclusion:
 Based on the evaluation scores, we observe that logistic regression achieved the highest accuracy among all models (97.35%). However, considering other metrics such as precision, recall, and F1-score, gradient boosting and XGBoost demonstrate competitive performance.
 Recommendations:
